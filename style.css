@@ -1,0 +1,20 @@
+.margindiv{
+    background-color: teal;
+    width: 400px;
+    height: 400px;
+    margin:30px ;
+    padding: 30px;
+}
+#divid{
+    font-size: 24px;
+}
+
+.name{
+    font-weight: bold;
+    color: teal;
+
+}
+
+li,h1 {
+    color: chartreuse;
+}
