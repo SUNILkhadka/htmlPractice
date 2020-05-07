@@ -18,3 +18,10 @@
 li,h1 {
     color: chartreuse;
 }
+
+ul > li{
+    color:red;
+}
+input[type = text],input[type=password],input[type=number]{
+    background-color: rgb(40, 187, 197);
+}
